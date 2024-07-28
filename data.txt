@@ -1,0 +1,1 @@
+query_id=AAFe4KZgAgAAAF7gpmCsdX7Y&user=%7B%22id%22%3A5916516446%2C%22first_name%22%3A%22Ndarbeg%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Ndarbeg%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1722172719&hash=36e878729f0f93c15fa715cb20ef80cd27d09768965f4ae1b3bfbc5c1b240a07
